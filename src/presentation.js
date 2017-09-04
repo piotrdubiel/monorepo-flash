@@ -66,7 +66,7 @@ export default class Presentation extends React.Component {
             <ListItem>ember</ListItem>
           </List>
         </Slide>
-        <Slide bgImage="https://media.giphy.com/media/1M9fmo1WAFVK0/giphy.gif" />
+        <Slide bgImage="http://i0.kym-cdn.com/entries/icons/original/000/022/978/yNlQWRM.jpg" />
         <Slide bgColor="tertiary">
           <Heading size={6} textColor="secondary" caps>
             Pros
