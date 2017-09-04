@@ -119,10 +119,10 @@ export default class Presentation extends React.Component {
               loc: [10, 12],
               note: "shared logic: redux, api requests, sagas, etc."
             },
-            { loc: [12, 13] },
+            { loc: [12, 13], note: "platforms" },
             { loc: [13, 15], note: "react-native project" },
             { loc: [15, 17], note: "electron project" },
-            { loc: [0, 10] }
+            { loc: [0, 10], note: "forks" }
           ]}
         />
         <CodeSlide
